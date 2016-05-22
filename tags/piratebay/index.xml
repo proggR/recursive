@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on @recursivewit</title>
-    <link>https://proggR.github.io/recursive/tags/tech/</link>
-    <description>Recent content in Tech on @recursivewit</description>
+    <title>Piratebay on @recursivewit</title>
+    <link>https://proggR.github.io/recursive/tags/piratebay/</link>
+    <description>Recent content in Piratebay on @recursivewit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Sun, 22 May 2016 16:52:57 -0400</lastBuildDate>
-    <atom:link href="https://proggR.github.io/recursive/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://proggR.github.io/recursive/tags/piratebay/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Tracker Formerly Known AS piratebay.org Is Once Again piratebay.org</title>
@@ -24,20 +24,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;story: &lt;a href=&#34;https://torrentfreak.com/pirate-bays-domain-shuffle-come-full-circle-160520/&#34;&gt;TorrentFreak&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shitty Batteries Just Got Shittier Thanks To Uber</title>
-      <link>https://proggr.github.io/recursive/relay/uber-price-gouges-low-batteries/</link>
-      <pubDate>Sun, 22 May 2016 01:47:47 -0400</pubDate>
-      
-      <guid>https://proggr.github.io/recursive/relay/uber-price-gouges-low-batteries/</guid>
-      <description>&lt;p&gt;As if being stranded without a dying/dead phone isn&amp;rsquo;t already shitty enough (I&amp;rsquo;ve been there&amp;hellip; lost in the rain), Uber found a way to make the experience even shittier: by charging you more for it. Thanks to creepy analytics and insatiable greed, you can add &amp;ldquo;battery tax&amp;rdquo; to the list of things eating your paycheque.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;story: &lt;a href=&#34;http://www.techtimes.com/articles/160052/20160521/uber-knows-when-riders-would-be-willing-to-pay-surge-pricing.htm&#34;&gt;Tech Times&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
